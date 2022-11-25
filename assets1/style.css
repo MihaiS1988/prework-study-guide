@@ -8,7 +8,11 @@ header,
 footer {
     width: 100%;
     height: 120px;
+<<<<<<< HEAD
+    background-color: blue;
+=======
     background-color: blue ;
+>>>>>>> 03d3e9cc91c883cb12ae41594ef1cf4efd3fe0a7
     color: white;
 }
 
@@ -34,10 +38,13 @@ ul {
 p {
     text-align: center;
     font-size: 30px;
+<<<<<<< HEAD
+=======
   }
   .card {
     width: 80%;
   margin: 40px auto;
   border: 5px solid grey;
   box-shadow: 5px 10px #888888;
+>>>>>>> 03d3e9cc91c883cb12ae41594ef1cf4efd3fe0a7
   }
